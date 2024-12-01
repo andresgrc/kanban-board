@@ -1,1 +1,2 @@
 # kanban-board
+#### This project is a dynamic Kanban board that allows users to organize tasks across multiple columns (Backlog, In Progress, Complete, and On Hold). Built with vanilla JavaScript, HTML, and CSS, the app supports drag-and-drop functionality and automatically saves tasks in localStorage for persistent state across sessions.
